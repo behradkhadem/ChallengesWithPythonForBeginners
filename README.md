@@ -1,4 +1,4 @@
-# ChallengesWithPython
+# ChallengesWithPython for Beginners
 simple programming challenges for beginner python learners. 
 
 (اگر فارسی زبان هستید می‌تونید به لینکی که توی بالای صفحه قرار دادم مراجعه کنید و لذت ببرید!)
