@@ -7,7 +7,7 @@ def facto(num):
         value = value + 1
     return(factorial)
 
-#print(facto(5000))
+print(facto(5000))
 
 
 #2- Using Range: 
