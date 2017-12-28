@@ -21,3 +21,9 @@ write a program which tells us the number of upper case, lower case and numbers 
 
 try to make the output more beautiful using formatters. 
 
+
+# no. 3 ) SuperRoot (nth root)!
+write program which receive the number, the root grade (n) and a float value called error as input and generates the nth root of the given number. let's call it superRoot!
+
+for example: num=5, n=3, error=0.001 : superRoot = 1.7000000000000013. we don't want it to be perfect!
+
