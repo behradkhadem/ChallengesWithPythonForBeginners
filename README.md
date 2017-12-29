@@ -27,3 +27,14 @@ write program which receive the number, the root grade (n) and a float value cal
 
 for example: num=5, n=3, error=0.001 : superRoot = 1.7000000000000013. we don't want it to be perfect!
 
+
+# no. 4 ) Derivative
+write a program that calculates the Derivative of a certain function in a point that we give. you can ask for the value of error separately, just like previous challenge! (it looks hard but it isn't actually! it's much simpler than you think!)  
+
+
+# no. 5 ) Integration
+Just same as the previous challenge! but this time, the input is two points. if you have done the previous challenge, this one will be so simple for you!
+
+
+# no. 6 ) Prime number identifyer and generator!
+You certainly know about prime numbers from high school. make a program which tells us that the given (input) number is eather prime or not. then do something that generates the prime numbers and adds them into a list. 
