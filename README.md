@@ -37,9 +37,13 @@ Just same as the previous challenge! but this time, the input is two points. if 
 
 
 # no. 6 ) Prime number identifyer and generator!
-You certainly know about prime numbers from high school. make a program which tells us that the given (input) number is eather prime or not. then do something that generates the prime numbers and adds them into a list. 
+You certainly know about prime numbers from high school. make a program which tells us that the given (input) number is either prime or not. then do something that generates the prime numbers and adds them into a list. 
 
 # no. 7 ) Chinese heads and legs puzzle
 We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have? solve this problem using progemming!
 Is this puzzle solvable for any amount of legs and heads? no? so write a function that extends the problem to any given amount of legs and heads and returns either the count of chickens and rabbits or tells us that the problem is unsolvible for given inputs. 
 then right a function that returns all possible pairs of legs and heads in a given range (input) as a dictionary. 
+
+# no. 8 ) Email Verification
+Suppose you are writing a managing program for a company and you want to sepereate the valid emails from fake ones. How you do that? How we can interact with bunch of strings like that? Write a function which retures True for valid emails and vice versa. (just remember, we don't want to be a perfectionist here!)
+(hint: Regular Expressions are very handy for this problem. Try to understand them and use them.)
